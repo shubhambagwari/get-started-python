@@ -1,3 +1,4 @@
 Flask>=1.0.0
 cloudant==2.13.0
 numpy==2.1.0
+pandas==2.1.3
